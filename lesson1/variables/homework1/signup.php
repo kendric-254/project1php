@@ -23,6 +23,9 @@
             <div class="form-input">
                 <input type="submit" name="signup" value="Signup">
             </div>
+            <div class="form-input"> 
+                <input type="submit" name="login" value="Login">
+             </div>
         </form>
     </div>
 </body>
