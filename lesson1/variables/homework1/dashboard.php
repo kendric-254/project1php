@@ -23,7 +23,7 @@ if (!isset($_SESSION['username'])) {
             <a href="#">Grades</a>
             <a href="#">Schedule</a>
             <a href="#">Notifications</a>
-            <a href="#">Profile</a>
+            <a href="info.php">students</a>
             <a href="logout.php">Logout</a>
         </div>
     </div>
